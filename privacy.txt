@@ -1,0 +1,37 @@
+Privacy Policy for BreachCompilation Android App
+
+Effective Date: 10/11/2023
+
+Developer: Jayateertha Guruprasad
+Contact: jayateertha043@gmail.com
+
+Thank you for choosing BreachCompilation developed by Jayateertha Guruprasad. This Privacy Policy outlines how your data is collected, used, and protected when using the app. By using the app, you agree to the terms outlined in this policy.
+
+Data Storage:
+
+The app itself does not store any user data locally or on external servers.
+Data Scrapping:
+
+The app sends email addresses, usernames, or passwords (user input) to http://pwndb2.herokuapp.com/ for the purpose of scraping data from the dark web.
+Data Ownership:
+
+The owner/developer of the app does not own or distribute any breach data obtained through the scraping process. The app is developed solely for user knowledge and ethical use.
+User Responsibility:
+
+The owner/developer of the app is not responsible for any unethical actions taken by the user. Users are advised to use the app responsibly and in compliance with legal and ethical standards.
+Downtime Disclaimer:
+
+As the app relies on scraping data from the dark web, if the dark web website is down, the app will also experience downtime. Users should be prepared to bear the downtime for an unspecified period.
+Advertisements:
+
+The app may use advertisements as a source of revenue. These advertisements may collect certain non-personal information for the purpose of providing targeted advertising. Please refer to the advertising provider's privacy policy for more information.
+User Consent:
+By using the BreachCompilation app, you consent to the collection and use of your information as outlined in this Privacy Policy.
+
+Changes to This Policy:
+This Privacy Policy may be updated periodically to reflect changes in app functionality or applicable regulations. Users will be notified of any significant changes.
+
+Contact Information:
+For any questions or concerns regarding this Privacy Policy, please contact Jayateertha Guruprasad at jayateertha043@gmail.com.
+
+It is important to review and understand this Privacy Policy before using the BreachCompilation app.
